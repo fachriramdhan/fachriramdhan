@@ -5,7 +5,7 @@
       <td bgcolor="#0077b6" align="center">
         <br>
         <h1 style="color: white; border: none;">👋 Hi there, I'm Fachri Ramdhan</h1>
-        <p style="color: #e0f2fe; font-size: 1.2em;"><b>Fullstack Developer | Laravel Specialist</b></p>
+        <p style="color: #e0f2fe; font-size: 1.2em;"><b>Software Engineer</b></p>
         <br>
       </td>
     </tr>
