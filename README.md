@@ -3,16 +3,11 @@
 <table width="100%">
   <tr>
     <th bgcolor="#0077b6" style="text-align:center; padding: 40px;">
-      <br>
       <h1 style="color: white; border: none; margin: 0;">👋 Hi there, I'm Fachri Ramdhan</h1>
       <p style="color: #e0f2fe; font-size: 1.2em; margin-top: 10px;"><b>Software Engineer</b></p>
-      <br>
     </th>
   </tr>
 </table>
-
-<br>
-
 <h3>🌐 Mari Terhubung</h3>
 
 <a href="https://linkedin.com/in/USERNAME_KAMU" target="blank">
