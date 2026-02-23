@@ -7,6 +7,6 @@
 
 ### 🌐 Mari Terhubung
 
-[LinkedIn](https://linkedin.com/in/fachrirmdhn) | [Instagram](https://instagram.com/fachrirmdhn) | [WhatsApp](https://wa.me/628xxxxxxxxxx)
+### [ 🟦 LinkedIn ](https://linkedin.com/in/fachrirmdhn) | [ 📸 Instagram ](https://instagram.com/fachrirmdhn) | [ 🟢 WhatsApp ](https://wa.me/628xxxxxxxxxx)
 
 </div>
