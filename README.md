@@ -3,8 +3,6 @@
 # 👋 Hi there, I'm Fachri Ramdhan
 ### **Software Engineer**
 
----
-
 ### 🌐 Mari Terhubung
 
 <a href="https://linkedin.com/in/fachrirmdhn">
