@@ -1,20 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0077b6&height=200&section=header&text=Fachri%20Ramdhan&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-
-  <br>
 
   <table width="100%">
     <tr>
       <td bgcolor="#0077b6" align="center">
-        <br>
         <h2 style="color: white; border: none;">👋 Hi there, I'm Fachri Ramdhan</h2>
         <p style="color: #e0f2fe;"><b>Fullstack Developer | Laravel Specialist</b></p>
-        <br>
       </td>
     </tr>
   </table>
-
-  <br>
 
   <h3>🌐 Mari Terhubung</h3>
   
