@@ -24,13 +24,3 @@
   </a>
 
 </div>
-
-<br>
-
----
-
-### 📊 Statistik GitHub (Tema Biru)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik Fachri" height="170" />
-</p>
