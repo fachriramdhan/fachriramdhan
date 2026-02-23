@@ -8,9 +8,6 @@
       </td>
     </tr>
   </table>
-
-  <br>
-
   <h3>🌐 Mari Terhubung</h3>
   
   <a href="https://linkedin.com/in/USERNAME_KAMU" target="blank">
