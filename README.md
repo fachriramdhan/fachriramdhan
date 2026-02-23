@@ -3,11 +3,15 @@
   <table width="100%">
     <tr>
       <td bgcolor="#0077b6" align="center">
-        <h2 style="color: white; border: none;">👋 Hi there, I'm Fachri Ramdhan</h2>
-        <p style="color: #e0f2fe;"><b>Fullstack Developer | Laravel Specialist</b></p>
+        <br>
+        <h1 style="color: white; border: none;">👋 Hi there, I'm Fachri Ramdhan</h1>
+        <p style="color: #e0f2fe; font-size: 1.2em;"><b>Fullstack Developer | Laravel Specialist</b></p>
+        <br>
       </td>
     </tr>
   </table>
+
+  <br>
 
   <h3>🌐 Mari Terhubung</h3>
   
