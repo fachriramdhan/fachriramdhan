@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi there, I'm Fachri Ramdhan
-# **Software Engineer**
+ **Software Engineer**
 
 ### 🌐 Mari Terhubung
 
